@@ -4,7 +4,7 @@ video_requests.py script uses JSON data to use Youtube Transcript API to obtain 
 
 Finally, use that video transcripcion with prompts specified in prompts_examples.txt
 
-☺ I thank you if you put an star to the repository!
+☺ I appreciate if you put an star to the repository ☺
 
 ## Pre-requirements
 - Python
@@ -13,12 +13,12 @@ Finally, use that video transcripcion with prompts specified in prompts_examples
 ## Execution
 First you need a folder with the youtube channel. Inside the TXT where the HTML is.
 
-Get data from YT channel.
+Being in the same project path execute following in order to get data from YT channel.
 ```
 python main.py [youtube_channel_name_folder]
 ```
 
-Transcript videos.
+And then this to transcript videos.
 ```
 python video_requests.py [youtube_channel_name_folder]
 ```
