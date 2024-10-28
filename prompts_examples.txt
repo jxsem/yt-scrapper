@@ -1,0 +1,42 @@
+[PROMPT A UTILIZAR CON LA TRANSCRIPCION]
+primero, puedes hacer mas legible este texto? hazlo en una sola contestacion y ten en cuenta los siguientes puntos:
+    - Revisión del texto: Mantener el contenido, tono y detalle del texto original, asegurando que toda la información esté en el mismo orden y nivel de especificación que en el texto que proporcionaste.
+    - Eliminar menciones a YouTube, likes, o suscripciones: No incluir menciones sobre el canal, likes, suscripciones u otras acciones relacionadas con YouTube en el texto revisado.
+    - Especificar ejemplos: Identificar y marcar claramente todos los ejemplos incluidos en el texto original para facilitar la comprensión. Cada uno de estos ejemplos se ha numerado y titulado para que quede claro el propósito de cada fragmento de código.
+
+[RESTO DE PROMPTS UNA VEZ TENEMOS LA TRANSCRIPCION LEGIBLE]
+Segundo: 
+    - Listame uno a uno los conceptos de los que se habla.
+    - Identifica el topic y proposito principal de la transcripcion.
+    - identifica la dificultad de lo que explica y dame los siguientes 5 conceptos que debería de aprender
+        o si es algo mas avanzado: esto es algo avanzado de mi nivel, podriamos ir punto a punto y me lo explicas mejor y de una manera mas sencilla
+    - hazme un roadmap detallado de qué aprender y como, y ponme ejercicios para cada uno, mejora lo que ya me has escrito
+    - dame también objetivos claros a conseguir con todo esto que estoy aprendiendo
+    - ahora una vez ya tengo esos conceptos, quiero hacer un proyecto util y poder subirlo a un repositorio, utiliza el pensamiento lateral y dame propuestas
+    - voy hacer el proyecto X, ayudame paso a paso
+    - tengo 2 hora al día, enumerame las tareas y repartelas durante las siguientes semanas
+    - [AÑADE LO QUE QUIERAS...]
+
+
+
+
+
+English version *******************************
+
+[PROMPT TO USE WITH THE TRANSCRIPTION]
+First, can you make this text more readable? Please respond in one answer and consider the following points:
+    - Text Review: Maintain the original content, tone, and detail, ensuring that all information remains in the same order and level of specificity as in the provided text.
+    - Remove Mentions of YouTube, Likes, or Subscriptions: Exclude any references to the channel, likes, subscriptions, or other YouTube-related actions from the revised text.
+    - Clarify Examples: Clearly identify and label all examples included in the original text to facilitate understanding. Each of these examples should be numbered and titled, making the purpose of each code snippet clear.
+
+[FOLLOW-UP PROMPTS ONCE WE HAVE A LEGIBLE TRANSCRIPTION]
+Second:
+    - List each concept mentioned, one by one.
+    - Identify the main topic and purpose of the transcription.
+    - Determine the difficulty level of what is explained and provide the next five concepts I should learn, or if it’s more advanced: "This is advanced for my level; could we go through it step-by-step with simpler explanations?"
+    - Create a detailed roadmap on what to learn and how, including exercises for each item and enhancing what has already been written.
+    - Set clear objectives for what I should achieve through this learning process.
+    - Once I understand these concepts, I want to create a useful project to upload to a repository; use lateral thinking and provide project ideas.
+    - I’m going to proceed with project X—guide me step-by-step.
+    - I have 2 hours a day; list the tasks and distribute them over the coming weeks.
+    - [ADD ANY OTHER INSTRUCTIONS...]
