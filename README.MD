@@ -8,7 +8,7 @@ Finally, use that video transcripcion with prompts specified in prompts_examples
 
 ## Pre-requirements
 - Python
-- (Youtube Transcripcion API)[https://pypi.org/project/youtube-transcript-api/]
+- [Youtube Transcripcion API](https://pypi.org/project/youtube-transcript-api/)
 
 ## Execution
 First you need a folder with the youtube channel. Inside the TXT where the HTML is.
@@ -25,8 +25,8 @@ python video_requests.py [youtube_channel_name_folder]
 
 ## Contact 
 
-[Linkedin](https://www.linkedin.com/in/lleirgarcia/)
-[Instagram](https://www.instagram.com/aqualityguy)
-[Youtube](https://www.youtube.com/channel/UCWrU0YCMKzn26kw970Clu3Q)
-[TikTok](https://www.tiktok.com/@aqualityguy)
-[The rest](https://linktr.ee/aqualityguy)
+[Linkedin](https://www.linkedin.com/in/lleirgarcia/)  
+[Instagram](https://www.instagram.com/aqualityguy)  
+[Youtube](https://www.youtube.com/channel/UCWrU0YCMKzn26kw970Clu3Q)  
+[TikTok](https://www.tiktok.com/@aqualityguy)  
+[The rest](https://linktr.ee/aqualityguy)  
